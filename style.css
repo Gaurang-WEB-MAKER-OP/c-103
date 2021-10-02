@@ -1,0 +1,28 @@
+#button1 {
+    background-color: gold;
+    height: 84px;
+    width: 466px;
+    font-size: 39px;
+}
+
+#label1 {
+    font-size: 30px !important;
+}
+
+body {
+    background-color: lightskyblue;
+}
+
+#button2 {
+    background-color: rgb(8, 250, 177);
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+}
+
+#button3 {
+    background-color: rgb(8, 101, 250);
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+}
